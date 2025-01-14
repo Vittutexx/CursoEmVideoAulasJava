@@ -1,3 +1,5 @@
+package cursoemvideo.aulas.java.basico;
+
 public class TesteTipos{
 
     public static void main(String[] args) {

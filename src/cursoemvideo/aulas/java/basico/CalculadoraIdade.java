@@ -1,3 +1,4 @@
+package cursoemvideo.aulas.java.basico;
 
 import java.time.LocalDate;
 import java.util.Scanner;

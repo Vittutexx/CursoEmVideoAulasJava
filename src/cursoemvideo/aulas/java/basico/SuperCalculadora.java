@@ -1,3 +1,5 @@
+package cursoemvideo.aulas.java.basico;
+
 import java.util.Scanner;
 
 public class SuperCalculadora {
